@@ -13,7 +13,8 @@ The project demonstrates embedded systems concepts such as sensor interfacing, m
 * Jumper Wires
 * Breadboard
 * USB Cable
-* Pcb 
+* Pcb
+* 20k ohm Resistor - 2
 
 ## Software Used
 
