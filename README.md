@@ -84,5 +84,7 @@ The project demonstrates embedded systems concepts such as sensor interfacing, m
 
 ## Author
 
-Shivam Devkar 
+Shivam Devkar (Team Leader)
+Sarvesh Kurle (Team Member)
+Sarthak Gayke (Team Member)
 Electronics and Computer Engineering
